@@ -1,0 +1,41 @@
+baseURL = "https://hide0123.github.io/home/"
+title = "hide0123"
+theme = "docsy"
+
+# language settings
+contentDir = "content/ja"
+defaultContentLanguage = "ja"
+# tell Hugo not to include the /ja/ element in the URL path for Japanese docs
+defaultContentLanguageInSubdir = false
+# useful when translating
+enableMissingTranslationPlaceholders = true
+
+[menu]
+  [[menu.main]]
+    name = "Documentation"
+    weight = -101
+    pre = "<i class='fas fa-book pr-2'></i>"
+    url = "/docs/"
+  [[menu.main]]
+    name = "Blog"
+    weight = -100
+    pre = "<i class='fas fa-rss pr-2'></i>"
+    url = "/blog/"
+  [[menu.main]]
+    name = "GitHub"
+    weight = -99
+    pre = "<i class='fab fa-github pr-2'></i>"
+    url = "https://github.com/hide0123/home"
+
+[params]
+  copyright = "hide0123"
+
+[params.links]
+  [[params.links.user]]
+    name = "Twitter"
+    url = "https://twitter.com/bam_b0o_"
+    icon = "fab fa-twitter"
+  [[params.links.user]]
+    name = "Github"
+    url = "https://github.com/hide0123"
+    icon = "fab fa-github"
