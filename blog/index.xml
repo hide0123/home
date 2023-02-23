@@ -1,0 +1,8 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hide0123 – Blogs</title><link>https://hide0123.github.io/home/blog/</link><description>Recent content in Blogs on hide0123</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 20 Feb 2023 21:34:12 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Docsyで新規投稿する方法</title><link>https://hide0123.github.io/home/blog/how2post/</link><pubDate>Mon, 20 Feb 2023 21:34:12 +0900</pubDate><guid>https://hide0123.github.io/home/blog/how2post/</guid><description>
+&lt;ol>
+&lt;li>&lt;code>hugo new blog/ファイル名.md&lt;/code>を実行する&lt;/li>
+&lt;li>&lt;code>content/ja/blog/ファイル名.md&lt;/code>のtitleを書き換え，draftをfalseにする&lt;/li>
+&lt;li>最終行に記事内容をMarkdown形式で書き込む&lt;/li>
+&lt;li>&lt;code>hugo server&lt;/code>を実行し，対象のページにアクセスして表示を確認する&lt;/li>
+&lt;li>問題がなければコミットしてプッシュする&lt;/li>
+&lt;/ol></description></item></channel></rss>
