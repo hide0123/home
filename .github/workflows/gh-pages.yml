@@ -41,7 +41,6 @@ jobs:
 
       - name: Build
         run: |
-          npm i -D postcss postcss-cli autoprefixer
           npm ci
           hugo --minify
 
