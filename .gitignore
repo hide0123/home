@@ -14,3 +14,6 @@ hugo.linux
 
 # Generated files by Node.js
 node_modules/
+
+# Generated files by Windows
+*:Zone.Identifier
