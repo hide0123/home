@@ -2,6 +2,8 @@ baseURL = "https://hide0123.github.io/home/"
 title = "hide0123"
 theme = "docsy"
 
+enableRobotsTXT = true
+
 # language settings
 contentDir = "content/ja"
 defaultContentLanguage = "ja"
@@ -9,6 +11,10 @@ defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 # useful when translating
 enableMissingTranslationPlaceholders = true
+
+[services]
+  [services.googleAnalytics]
+    id = "UA-166345327-1"
 
 [menu]
   [[menu.main]]
