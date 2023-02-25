@@ -5,7 +5,7 @@ draft: false
 ---
 
 1. `hugo new blog/ファイル名.md`を実行する
-2. `content/ja/blog/ファイル名.md`のtitleを書き換え，draftをfalseにする
+2. `content/ja/blog/ファイル名.md`のtitleを書き換える
 3. 最終行に記事内容をMarkdown形式で書き込む
-4. `hugo server`を実行し，対象のページにアクセスして表示を確認する
-5. 問題がなければコミットしてプッシュする
+4. `hugo server -D`を実行し，対象のページにアクセスして表示を確認する
+5. 問題がなければ，draftをfalseにした後コミットしてプッシュする
