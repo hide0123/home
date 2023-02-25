@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = true
 
 [services]
   [services.googleAnalytics]
-    id = "UA-166345327-1"
+    id = "G-W1M3E9YDR6"
 
 [menu]
   [[menu.main]]
