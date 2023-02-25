@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hide0123 – Blogs</title><link>https://hide0123.github.io/home/blog/</link><description>Recent content in Blogs on hide0123</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 26 Feb 2023 00:18:44 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 新管理人暴誕！！</title><link>https://hide0123.github.io/home/blog/maru-intr/</link><pubDate>Sun, 26 Feb 2023 00:18:44 +0900</pubDate><guid>https://hide0123.github.io/home/blog/maru-intr/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hide0123 – Blogs</title><link>https://hide0123.github.io/home/blog/</link><description>Recent content in Blogs on hide0123</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 26 Feb 2023 01:00:27 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 管理人Bambooの自己紹介</title><link>https://hide0123.github.io/home/blog/bamboo-intr/</link><pubDate>Sun, 26 Feb 2023 01:00:27 +0900</pubDate><guid>https://hide0123.github.io/home/blog/bamboo-intr/</guid><description>
+&lt;p>はじめまして、当ブログを運営しているBambooと申します！（新管理人の自己紹介より後になり、心底申し訳なく思ってます。）当ブログにお越しいただき、ありがとうございます。&lt;/p>
+&lt;p>私は情報科学を専門分野としています。資格取得にも興味があり、今まではFE（基本情報）やAP（応用情報）などの資格を取得してきました。近いうちの目標は、TOEICで800点を取得することです！&lt;/p>
+&lt;p>当ブログでは、共同管理人のまるとともに技術的な情報を中心に発信していきます。私に関しては、プログラミングや数学、資格取得などについての情報を発信していきたいと考えています。&lt;/p>
+&lt;p>このブログを通じて、皆さまと情報を共有し、共に成長していければと考えています。ご意見やご質問などがありましたら、お気軽にお問い合わせください。よろしくお願いいたします。&lt;/p></description></item><item><title>Blog: 新管理人爆誕！！</title><link>https://hide0123.github.io/home/blog/maru-intr/</link><pubDate>Sun, 26 Feb 2023 00:18:44 +0900</pubDate><guid>https://hide0123.github.io/home/blog/maru-intr/</guid><description>
 &lt;p>はじめまして、このブログの共同管理人、まるです！このブログに来てくれてありがとうございます。&lt;/p>
 &lt;p>私は学生で、様々な技術的なものに興味を持っています。私の目標はTOEFL 100/120 点、数学検定1級合格などで、常に新しいことに挑戦しています。&lt;/p>
 &lt;p>私はGPU、数学、プログラミングなどの知識を持っており、GPU API Vulkanを使用し、深層学習やレイトレーシングに取り組んできました。また、私は音楽にも興味があります。&lt;/p>
@@ -6,8 +10,8 @@
 &lt;p>ブログについてのご質問やご提案があれば、お気軽にお問い合わせください。ありがとうございました。&lt;/p></description></item><item><title>Blog: Docsyで新規投稿する方法</title><link>https://hide0123.github.io/home/blog/how2post/</link><pubDate>Mon, 20 Feb 2023 21:34:12 +0900</pubDate><guid>https://hide0123.github.io/home/blog/how2post/</guid><description>
 &lt;ol>
 &lt;li>&lt;code>hugo new blog/ファイル名.md&lt;/code>を実行する&lt;/li>
-&lt;li>&lt;code>content/ja/blog/ファイル名.md&lt;/code>のtitleを書き換え，draftをfalseにする&lt;/li>
+&lt;li>&lt;code>content/ja/blog/ファイル名.md&lt;/code>のtitleを書き換える&lt;/li>
 &lt;li>最終行に記事内容をMarkdown形式で書き込む&lt;/li>
-&lt;li>&lt;code>hugo server&lt;/code>を実行し，対象のページにアクセスして表示を確認する&lt;/li>
-&lt;li>問題がなければコミットしてプッシュする&lt;/li>
+&lt;li>&lt;code>hugo server -D&lt;/code>を実行し，対象のページにアクセスして表示を確認する&lt;/li>
+&lt;li>問題がなければ，draftをfalseにした後コミットしてプッシュする&lt;/li>
 &lt;/ol></description></item></channel></rss>
