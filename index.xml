@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hide0123 – hide0123</title><link>https://hide0123.github.io/home/</link><description>Recent content on hide0123</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 26 Feb 2023 01:00:27 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 管理人Bambooの自己紹介</title><link>https://hide0123.github.io/home/blog/bamboo-intr/</link><pubDate>Sun, 26 Feb 2023 01:00:27 +0900</pubDate><guid>https://hide0123.github.io/home/blog/bamboo-intr/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BamTech – BamTech</title><link>https://hide0123.github.io/home/</link><description>Recent content on BamTech</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 26 Feb 2023 01:00:27 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 管理人Bambooの自己紹介</title><link>https://hide0123.github.io/home/blog/bamboo-intr/</link><pubDate>Sun, 26 Feb 2023 01:00:27 +0900</pubDate><guid>https://hide0123.github.io/home/blog/bamboo-intr/</guid><description>
 &lt;p>はじめまして、当ブログを運営しているBambooと申します！（新管理人の自己紹介より後になり、心底申し訳なく思ってます。）当ブログにお越しいただき、ありがとうございます。&lt;/p>
 &lt;p>私は情報科学を専門分野としています。資格取得にも興味があり、今まではFE（基本情報）やAP（応用情報）などの資格を取得してきました。近いうちの目標は、TOEICで800点を取得することです！&lt;/p>
 &lt;p>当ブログでは、共同管理人のまるとともに技術的な情報を中心に発信していきます。私に関しては、プログラミングや数学、資格取得などについての情報を発信していきたいと考えています。&lt;/p>
@@ -8,6 +8,12 @@
 &lt;p>私はGPU、数学、プログラミングなどの知識を持っており、GPU API Vulkanを使用し、深層学習やレイトレーシングに取り組んできました。また、私は音楽にも興味があります。&lt;/p>
 &lt;p>このブログでは、私が興味を持つことや専門知識を共有することを通じて、読者の皆様に役立つ情報を提供したいと考えています。私には、圧倒的な集中力があると自負しています。&lt;/p>
 &lt;p>ブログについてのご質問やご提案があれば、お気軽にお問い合わせください。ありがとうございました。&lt;/p></description></item><item><title>Blog: Docsyで新規投稿する方法</title><link>https://hide0123.github.io/home/blog/how2post/</link><pubDate>Mon, 20 Feb 2023 21:34:12 +0900</pubDate><guid>https://hide0123.github.io/home/blog/how2post/</guid><description>
+&lt;h1 id="前提条件">前提条件&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/">Hugo&lt;/a>がインストールされていること&lt;/li>
+&lt;li>&lt;code>npm ci&lt;/code>を実行して依存パッケージがインストールされていること&lt;/li>
+&lt;/ul>
+&lt;h1 id="手順">手順&lt;/h1>
 &lt;ol>
 &lt;li>&lt;code>hugo new blog/ファイル名.md&lt;/code>を実行する&lt;/li>
 &lt;li>&lt;code>content/ja/blog/ファイル名.md&lt;/code>のtitleを書き換える&lt;/li>
