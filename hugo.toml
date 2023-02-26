@@ -1,5 +1,5 @@
 baseURL = "https://hide0123.github.io/home/"
-title = "hide0123"
+title = "BamTech"
 theme = "docsy"
 
 enableRobotsTXT = true
@@ -35,12 +35,12 @@ enableMissingTranslationPlaceholders = true
 
 [languages]
   [languages.ja]
-    title = "hide0123"
+    title = "BamTech"
     description = "Welcome to my website!"
     languageName = "日本語"
 
 [params]
-  copyright = "hide0123"
+  copyright = "BamTech"
   images = "img/ogp.png"
 
 [params.links]
