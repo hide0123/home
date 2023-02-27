@@ -1,6 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BamTech – BamTech</title><link>https://hide0123.github.io/home/</link><description>Recent content on BamTech</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 26 Feb 2023 01:00:27 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 管理人Bambooの自己紹介</title><link>https://hide0123.github.io/home/blog/bamboo-intr/</link><pubDate>Sun, 26 Feb 2023 01:00:27 +0900</pubDate><guid>https://hide0123.github.io/home/blog/bamboo-intr/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BamTech – BamTech</title><link>https://hide0123.github.io/home/</link><description>Recent content on BamTech</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 27 Feb 2023 23:25:34 +0900</lastBuildDate><atom:link href="https://hide0123.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 短期目標を立てる大切さ</title><link>https://hide0123.github.io/home/blog/goals/</link><pubDate>Mon, 27 Feb 2023 23:25:34 +0900</pubDate><guid>https://hide0123.github.io/home/blog/goals/</guid><description>
+&lt;h1 id="はじめに">はじめに&lt;/h1>
+&lt;p>　こんにちは，管理人のBambooです．今回は，僕が最近実践している短期目標の設定について書きたいと思います．&lt;br>
+　「毎月の始めに月間目標を設定し，その目標を達成すること」これが僕の今年の目標です．この目標を設定した経緯や実際に実践していること，効果について書きたいと思います．&lt;/p>
+&lt;h1 id="経緯">経緯&lt;/h1>
+&lt;p>　皆さんは仕事のタスクや学校の課題を期日ギリギリに提出した経験はないでしょうか？僕はどちらかというとそういうタイプです．「まだ間に合う！」，「もう少し後回しにしてもいいや」，そう考えてしまいます．僕は去年応用情報技術者という資格を取得したのですが，振り返ってみると明らかに試験直前に勉強量が偏っていました．「受験に合格する」，「資格を取得する」，これ自体は立派な目標ですが，これだけでは勉強時間に偏りが生じたり，目標を達成するビジョンが見えにくい場合が多いです．&lt;br>
+　そこで登場するのが短期目標です．何かを達成するという目に見える大きな軸ではなく，その目標を達成するためにどういう行動を取るか，その行動をどれくらいの期間で達成するか，という小さな軸に焦点を当てた目標です．短期目標を設定するメリットは2つあります．&lt;/p>
+&lt;ol>
+&lt;li>目標達成に向けた行動を明確にする&lt;/li>
+&lt;/ol>
+&lt;p>　これは言うまでもないですが，目標を達成するためには，その目標を達成するための行動を取らなければなりません．短期目標を設定することで，その目標を達成するために，いつまでにどのような行動を取るか，ということを明確にすることができます．&lt;/p>
+&lt;ol start="2">
+&lt;li>目標を達成するイメージがしやすくなる&lt;/li>
+&lt;/ol>
+&lt;p>　目標を達成するためには，当然ですが期日までに目標を達成できるレベルに到達しなければなりません．しかし，「〇〇を達成する」という漠然とした目標だけでは，何から取り組めばいいか，何を続ければいいか，いつまでに何ができるようになっていればよいか，ということがイメージしにくいです．短期目標を設定することで，目標達成に近づいているという実感がわき，自信に繋がります．&lt;/p>
+&lt;h1 id="実践">実践&lt;/h1>
+&lt;p>　実際に僕が現時点で実践している短期目標を紹介します．短期目標は，誰かが介入するわけではなく完全に自分で設定するので，自分が無理なく取り組める内容や期間を設定します．僕は月間目標という大枠をまず決め，それに向けた小さな目標を毎日設定して実践するというスタンスを取っています．毎日の目標設定をここに書くのは無理があるので，以下に月間目標として設定したものを載せます．&lt;/p>
+&lt;h2 id="1月の目標toeicで700点以上を取る">1月の目標：TOEICで700点以上を取る&lt;/h2>
+&lt;p>　今までTOEICの勉強をまともにできていなかったので，1月はTOEICの勉強に取り組むことにしました．1月末のテストだったため，1月に関しては月間目標=達成目標となっています．今回は700点を目標に取り組みました．具体的には，金のフレーズという単語帳とTOEICの公式問題集を使って，毎日少しずつ演習を行いました．先日結果が返ってきたので，結果の画像を載せます．&lt;/p>
+&lt;p>&lt;img src="toeic.jpg" alt="TOEIC 結果">&lt;/p>
+&lt;p>　う～ん，700点に到達していませんね．．．目標達成ならず．惜しい点数ではあるので，次回はもう少し高めの点数を目標にして取り組んでみようと思います．&lt;/p>
+&lt;h2 id="2月の目標大学数学を総復習する">2月の目標：大学数学を総復習する&lt;/h2>
+&lt;p>　続いて大学数学です．かつて履修を行い，ちゃんと単位もとっていたはずですが，いざ問題を解いてみると意外と忘れている部分が多いです．そこで2月は，資格取得などの目に見える目標ではなく，教養として数学を身につけることを目標としました．復習には，マセマシリーズ各種や，各分野の参考書を用いました．結果として，よほど難しい問題でない限り解けるようにはなったと思います．&lt;/p>
+&lt;h2 id="3月の目標toeicで800点を取るための勉強をする">3月の目標：TOEICで800点を取るための勉強をする&lt;/h2>
+&lt;p>　3月からは，1月に目標を達成できなかったことを反省し，TOEICの勉強を再開します．目標は無理のない範囲であれば高いに越したことはないので，3月中に次回のTOEICで800点を取れる程度の実力をつけることを目標にします．前回使用したTOEICの公式問題集よりも新しいバージョンが出版されているため，そちらを使って毎日少しずつ演習を行おうと考えています．ちなみに次回のTOEIC受験は4月下旬の予定です．（結果は発表され次第こちらのブログに載せようと思うので，楽しみにしていてください．）&lt;/p>
+&lt;h1 id="まとめ">まとめ&lt;/h1>
+&lt;p>　いかがだったでしょうか．僕自身は月間目標を設定していますが，これは週間目標であっても，あるいは1ヶ月よりも長い期間の目標であっても良いと思います．大事なのは，「決められた期間に対する目標を設定し，目標に向かって継続的に取り組むこと」です．もし今何か目標を持っているのであれば，ぜひ独自の目標スタイルを確立して，短期目標に取り組むことにチャレンジしてみてください．&lt;/p></description></item><item><title>Blog: 管理人Bambooの自己紹介</title><link>https://hide0123.github.io/home/blog/bamboo-intr/</link><pubDate>Sun, 26 Feb 2023 01:00:27 +0900</pubDate><guid>https://hide0123.github.io/home/blog/bamboo-intr/</guid><description>
 &lt;p>はじめまして、当ブログを運営しているBambooと申します！（新管理人の自己紹介より後になり、心底申し訳なく思ってます。）当ブログにお越しいただき、ありがとうございます。&lt;/p>
-&lt;p>私は情報科学を専門分野としています。資格取得にも興味があり、今まではFE（基本情報）やAP（応用情報）などの資格を取得してきました。近いうちの目標は、TOEICで800点を取得することです！&lt;/p>
+&lt;p>私は情報工学を専門分野としています。資格取得にも興味があり、今まではFE（基本情報）やAP（応用情報）などの資格を取得してきました。近いうちの目標は、TOEICで800点を取得することです！&lt;/p>
 &lt;p>当ブログでは、共同管理人のまるとともに技術的な情報を中心に発信していきます。私に関しては、プログラミングや数学、資格取得などについての情報を発信していきたいと考えています。&lt;/p>
 &lt;p>このブログを通じて、皆さまと情報を共有し、共に成長していければと考えています。ご意見やご質問などがありましたら、お気軽にお問い合わせください。よろしくお願いいたします。&lt;/p></description></item><item><title>Blog: 新管理人爆誕！！</title><link>https://hide0123.github.io/home/blog/maru-intr/</link><pubDate>Sun, 26 Feb 2023 00:18:44 +0900</pubDate><guid>https://hide0123.github.io/home/blog/maru-intr/</guid><description>
 &lt;p>はじめまして、このブログの共同管理人、まるです！このブログに来てくれてありがとうございます。&lt;/p>
