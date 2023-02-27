@@ -2,6 +2,7 @@
 title: "Docsyで新規投稿する方法"
 date: 2023-02-20T21:34:12+09:00
 draft: false
+description: "Hugoテーマの一種Docsyを使用してGitHub Pagesにブログを投稿する手順を紹介"
 ---
 
 # 前提条件
