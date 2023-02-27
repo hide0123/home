@@ -41,7 +41,7 @@ enableMissingTranslationPlaceholders = true
 
 [params]
   copyright = "BamTech"
-  images = "img/ogp.png"
+  images = "img/image.png"
 
 [params.links]
   [[params.links.user]]
